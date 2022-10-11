@@ -10,7 +10,7 @@ The emotional samples in Video-SA are collected from two parts: 375 videos of 5 
 
 ![1665501193784](https://user-images.githubusercontent.com/45681444/195130590-b0dfdd35-6794-4e5b-9ae5-64b87bc84b97.png)
 
-![1665501617268](https://user-images.githubusercontent.com/45681444/195132368-1f18a337-bfee-4f28-a3a8-0470797ca277.png)
+![image](https://user-images.githubusercontent.com/45681444/195132560-ac0eda96-ae5a-4139-810f-dcba0ab2f963.png)
 
 
 ## When to upload
