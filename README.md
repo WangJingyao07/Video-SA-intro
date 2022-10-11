@@ -8,7 +8,10 @@ The emotional samples in Video-SA are collected from two parts: 375 videos of 5 
 
 ## Samples of Video-SA (Video Data for Multimodal Sentiment Analysis)
 
-![1665500207049](https://user-images.githubusercontent.com/45681444/195126276-4172d302-b2f1-4ba4-92c8-a0882ab78010.png)
+![1665501193784](https://user-images.githubusercontent.com/45681444/195130590-b0dfdd35-6794-4e5b-9ae5-64b87bc84b97.png)
+
+![1665501316412](https://user-images.githubusercontent.com/45681444/195131101-a3f0c1a9-08fe-46aa-80e4-bc988bdc5490.png)
+
 
 ## When to upload
 Samples of this dataset will be upload before 2023 (After the related work is published)
