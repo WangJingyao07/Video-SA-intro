@@ -11,7 +11,7 @@ The emotional samples in Video-SA are collected from two parts: 375 videos of 5 
 ![1665500207049](https://user-images.githubusercontent.com/45681444/195126276-4172d302-b2f1-4ba4-92c8-a0882ab78010.png)
 
 ## When to upload
-Samples of this dataset will be upload before 2023.
+Samples of this dataset will be upload before 2023 (After the related work is published)
 
 ## V 2.0
 For further work, we have also set up 180 negative samples in Video-SA (i.e., for each basic emotion, 30 samples that their facial expressions, text and audio messages do not belong to the sentiment category in which they are located, e.g., facial anchor does not correspond to the target) to facilitate future exploration of comparison learning, and all of them will be supplemented in subsequent dataset version updates.
